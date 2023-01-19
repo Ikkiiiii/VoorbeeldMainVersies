@@ -1,0 +1,8 @@
+C:\Users\Leerling6ITN\Desktop\VoorbeeldConsolee\VoorbeeldConsolee\bin\Debug\VoorbeeldConsolee.exe.config
+C:\Users\Leerling6ITN\Desktop\VoorbeeldConsolee\VoorbeeldConsolee\bin\Debug\VoorbeeldConsolee.exe
+C:\Users\Leerling6ITN\Desktop\VoorbeeldConsolee\VoorbeeldConsolee\bin\Debug\VoorbeeldConsolee.pdb
+C:\Users\Leerling6ITN\Desktop\VoorbeeldConsolee\VoorbeeldConsolee\obj\Debug\VoorbeeldConsolee.csproj.AssemblyReference.cache
+C:\Users\Leerling6ITN\Desktop\VoorbeeldConsolee\VoorbeeldConsolee\obj\Debug\VoorbeeldConsolee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leerling6ITN\Desktop\VoorbeeldConsolee\VoorbeeldConsolee\obj\Debug\VoorbeeldConsolee.csproj.CoreCompileInputs.cache
+C:\Users\Leerling6ITN\Desktop\VoorbeeldConsolee\VoorbeeldConsolee\obj\Debug\VoorbeeldConsolee.exe
+C:\Users\Leerling6ITN\Desktop\VoorbeeldConsolee\VoorbeeldConsolee\obj\Debug\VoorbeeldConsolee.pdb
